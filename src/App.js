@@ -7,11 +7,11 @@ export default function App() {
   return (
     <div className="App">
       <nav>
-        <a href="#">About</a>
-        <a href="#">Works</a>
-        <a href="#">Partners</a>
-        <a href="#">Price</a>
-        <a href="#">Contacts</a>
+        <a href="#">Practice Board</a>
+        <a href="#">2 Player</a>
+        <a href="#">Vs Computer</a>
+        <a href="#">Variations</a>
+        <a href="#"></a>
       </nav>
       <h2 id="main">Chess</h2>
       <h3>test</h3>
